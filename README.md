@@ -16,7 +16,7 @@ The Service is highly maintained and up-to-date.
 
 flyCaptcha is the ideal solution to build own services.
 
-In case you need a custom plan for higher-volume usage please send us a message on Telegram https://t.me/reversecoders
+In case you need a custom plan for higher-volume usage please send us a message on Telegram https://t.me/reverse4free
 
 ### 💬 Contact:
 
