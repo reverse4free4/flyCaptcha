@@ -1,4 +1,4 @@
-## flyCaptcha - (Support: https://t.me/reversecoders)
+## flyCaptcha - (Support: https://t.me/reverse4free)
 
 ### 🔥 Big announcement 🔥 : Since January 3rd, 2024, in addition to the Web Captcha Solver, we also support the full Captcha Solving and Verification Process for the TikTok Mobile App ‼️
 
@@ -20,12 +20,9 @@ In case you need a custom plan for higher-volume usage please send us a message 
 
 ### 💬 Contact:
 
-E-Mail: reversecoders@gmail.com <br>
-Website: https://flycaptcha.com <br>
-Telegram: https://t.me/reversecoders <br>
-Github: https://github.com/reversecoderslab/flyCaptcha <br>
-Gitlab: https://gitlab.com/reversecoders/flycaptcha <br>
-Rapidapi: https://rapidapi.com/reversecoders/api/flycaptcha <br>
+Telegram: https://t.me/reverse4free <br>
+Github: https://github.com/reverse4free/flyCaptcha <br>
+Rapidapi: https://rapidapi.com/reverse4free4/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
 ### Chinese
@@ -50,10 +47,7 @@ flyCaptcha 是构建自己的服务的理想解决方案。
 
 ### 💬 联系方式：
 
-电子邮件：reversecoders@gmail.com <br>
-网站：https://flycaptcha.com <br>
-电报：https://t.me/reversecoders <br>
+电报：https://t.me/reverse4free <br>
 Github：https://github.com/reversecoderslab/flyCaptcha <br>
-Gitlab: https://gitlab.com/reversecoders/flycaptcha <br>
-Rapidapi：https://rapidapi.com/reversecoders/api/flycaptcha <br>
+Rapidapi：https://rapidapi.com/reverse4free/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
