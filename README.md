@@ -21,7 +21,7 @@ In case you need a custom plan for higher-volume usage please send us a message 
 ### 💬 Contact:
 
 Telegram: https://t.me/reverse4free <br>
-Github: https://github.com/reverse4free/flyCaptcha <br>
+Github: https://github.com/reverse4free4/flyCaptcha <br>
 Rapidapi: https://rapidapi.com/reverse4free4/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
@@ -43,11 +43,11 @@ YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
 
 flyCaptcha 是构建自己的服务的理想解决方案。
 
-如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/reversecoders
+如果您需要更高容量的定制计划，请在 Telegram 上向我们发送消息 https://t.me/reverse4free
 
 ### 💬 联系方式：
 
 电报：https://t.me/reverse4free <br>
-Github：https://github.com/reversecoderslab/flyCaptcha <br>
-Rapidapi：https://rapidapi.com/reverse4free/api/flycaptcha <br>
+Github：https://github.com/reverse4free4/flyCaptcha <br>
+Rapidapi：https://rapidapi.com/reverse4free4/api/flycaptcha <br>
 YouTube: https://www.youtube.com/watch?v=c2pP8WFGtUg <br>
