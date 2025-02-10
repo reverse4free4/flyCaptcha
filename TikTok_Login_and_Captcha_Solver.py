@@ -1,5 +1,5 @@
-# Get your key from https://rapidapi.com/reversecoders/api/flycaptcha.
-# In case you need support send us a message on Telegram https://t.me/reversecoders
+# Get your key from https://rapidapi.com/reverse4free4/api/flycaptcha.
+# In case you need support send us a message on Telegram https://t.me/reverse4free
 
 rapid_api_key = ""  # Your rapidapi key
 tiktok_username = ""  # Your Username from TikTok Account
